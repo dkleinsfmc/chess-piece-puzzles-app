@@ -1,1 +1,1 @@
-# sfmc-apps
+# chess-piece-puzzles
